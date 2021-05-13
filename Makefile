@@ -1,3 +1,4 @@
+HEROKU_EMAIL_ADDRESS=vishal.patel@sidewayseight.co.uk
 # ----------------------------------
 #          INSTALL & TEST
 # ----------------------------------
